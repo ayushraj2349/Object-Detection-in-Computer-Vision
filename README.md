@@ -78,6 +78,12 @@ So, It easily surpasses the criteria of **24fps** for a model to be run on Video
 
 # Project 3
 
+
+
+https://github.com/ayushraj2349/Object-Detection-in-Computer-Vision/assets/97942801/17f56ccd-9b3a-46eb-bb7c-6432ac95a71c
+
+
+
 ## A smaller yet powerful Project build using YOLOv8 to showcase one out of many real-world applications.
 
 ## This tool simply plots the bounding boxes of Helmets without confidence score (else it will become clumsy, just to look clean) and displays the current count of Helmets in the videos.
