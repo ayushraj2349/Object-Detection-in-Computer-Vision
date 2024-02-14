@@ -1,3 +1,12 @@
+Copyright 2024, The Authors. All rights reserved.
+
+All files in the following folders:
+/Project 1 - Faster R-CNN
+/Project 2 - YOLOv8
+/Project 3 - Object Counting using YOLOv8
+
+Are licensed as follows:
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -186,7 +195,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2024 Ayush Raj
+   Copyright 2024, The Authors.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
