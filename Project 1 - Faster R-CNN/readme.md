@@ -11,7 +11,7 @@ best_model.pth is the best model achieved by training the model.
 
 **Also, one more thing, all the results that we've calculated is on this model only, not on the Notebook's Model.**
 
-**Because this model worked best for us. But this is not generelised.**
+**Because this model worked best for us. But this is not generalized.**
 
 **The General which will work good on any problem at hand is this which is provided by the Notebook. That's why, written there.**
 
